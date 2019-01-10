@@ -1,0 +1,38 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: black;
+  color: greenyellow;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+  color: #00B7FF;
+  
+}
+
+input{
+  background: black;
+    color: greenyellow;
+    outline: auto;
+    display:block;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+a{
+  background: black;
+  color: limegreen;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+a:active{
+  color:yellow;
+}
+
+input[type='submit']{
+  margin-top:20px;
+}
